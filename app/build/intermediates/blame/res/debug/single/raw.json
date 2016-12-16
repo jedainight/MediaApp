@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nature.3gp",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\src\\main\\res\\raw\\nature.3gp"
+    },
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song.mp3",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\src\\main\\res\\raw\\song.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shutdown.mp3",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\src\\main\\res\\raw\\shutdown.mp3"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Dec 16 14:40:14 EET 2016
+base.0=C\:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64ad81741b3bfdc4993d23bb90900f5d6add5c0b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86cadc93480dbdd081a8bb809d8e285b2739d4f8\\classes.dex
+base.1=C\:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86cadc93480dbdd081a8bb809d8e285b2739d4f8
+file.0=C\:\\Users\\John\\AndroidStudioProjects\\MediaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64ad81741b3bfdc4993d23bb90900f5d6add5c0b\\classes.dex
